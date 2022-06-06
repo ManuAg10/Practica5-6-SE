@@ -1,0 +1,196 @@
+10
+
+dir
+15
+https://svn.riouxsvn.com/ic_se_03225435f/trunk/prac6_students
+https://svn.riouxsvn.com/ic_se_03225435f
+
+
+
+2022-06-05T12:05:37.376202Z
+15
+ManuelAbad
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+5220d878-86fd-4f4d-a457-747b50452c9a
+
+.cproject
+file
+0
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+.project
+file
+0
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+.settings
+dir
+
+
+
+add
+
+Debug
+dir
+
+
+
+add
+
+actuators_drv
+dir
+
+
+
+add
+
+bprint_swr
+dir
+
+
+
+add
+
+components
+dir
+
+
+
+add
+
+config
+dir
+
+
+
+add
+
+dataclasses
+dir
+
+
+
+add
+
+edroom_glue
+dir
+
+
+
+add
+
+edroombp_swr
+dir
+
+
+
+add
+
+edroomsl_swr
+dir
+
+
+
+add
+
+edroomsl_types_swr
+dir
+
+
+
+add
+
+io_ctrl
+dir
+
+
+
+add
+
+leon3_bprint
+dir
+
+
+
+add
+
+planner_swr
+dir
+
+
+
+add
+
+random_swr
+dir
+
+
+
+add
+
+rtems_osswr
+dir
+
+
+
+add
+
+sais
+dir
+
+
+
+add
+
+sensors_drv
+dir
+
+
+
+add
+
+vehicle_mmesp_project.cpp
+file
+0
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+

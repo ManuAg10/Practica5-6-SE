@@ -1,0 +1,154 @@
+10
+
+dir
+0
+https://svn.riouxsvn.com/ic_se_03225435f/trunk/prac6_students/dataclasses
+https://svn.riouxsvn.com/ic_se_03225435f
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+5220d878-86fd-4f4d-a457-747b50452c9a
+
+CDLocation
+dir
+
+
+
+add
+
+CDPath
+dir
+
+
+
+add
+
+Pr_Time
+dir
+
+
+
+add
+
+TEDROOMBool
+dir
+
+
+
+add
+
+TEDROOMByte
+dir
+
+
+
+add
+
+TEDROOMDouble
+dir
+
+
+
+add
+
+TEDROOMFloat
+dir
+
+
+
+add
+
+TEDROOMInt16
+dir
+
+
+
+add
+
+TEDROOMInt32
+dir
+
+
+
+add
+
+TEDROOMInt64
+dir
+
+
+
+add
+
+TEDROOMInt8
+dir
+
+
+
+add
+
+TEDROOMUInt16
+dir
+
+
+
+add
+
+TEDROOMUInt32
+dir
+
+
+
+add
+
+TEDROOMUInt64
+dir
+
+
+
+add
+
+TEDROOMUInt8
+dir
+
+
+
+add
+
+TEDROOMWord16
+dir
+
+
+
+add
+
+TEDROOMWord32
+dir
+
+
+
+add
+
+TEDROOMWord64
+dir
+
+
+
+add
+

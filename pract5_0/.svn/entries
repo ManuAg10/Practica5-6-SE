@@ -1,0 +1,70 @@
+10
+
+dir
+7
+https://svn.riouxsvn.com/ic_se_03225435f/trunk/pract5_0
+https://svn.riouxsvn.com/ic_se_03225435f
+
+
+
+2022-05-09T20:03:48.854070Z
+7
+ManuelAbad
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+5220d878-86fd-4f4d-a457-747b50452c9a
+
+.cproject
+file
+0
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+.project
+file
+0
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+include
+dir
+
+
+
+add
+
+src
+dir
+
+
+
+add
+
